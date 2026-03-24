@@ -1,31 +1,33 @@
-# Aditya Ranjan Sinha (@adityaranjan05)
+# 👋 Aditya Ranjan Sinha (@adityaranjan05)
 
-Welcome to my GitHub! I’m a Computer Science Engineering student passionate about software development, AI, and web technologies. I build projects that are practical, interactive, and deployable.
+🚀 CSE Student | Aspiring Software Engineer  
+💡 Passionate about Web Development, DSA & Building Real Projects  
 
-# 💫 About Me:
-- 🔭 I'm Currently Working On A Educational Website for Kids which I'm making using HTML, CSS, JavaScript.           
-- 🌱 I'm Currently Learning about Frontend Development, C++, DSA
+## 👨‍💻 About Me
 
+- 🌱 Learning Frontend Development, C++, and Data Structures & Algorithms  
+- 💻 Building real-world projects to improve problem-solving  
+- 🎯 Goal: Crack Google / Microsoft
+
+## 🚀 Projects
+
+- 🌱 Sprout Labs – Climate awareness website
+- 🧙‍♂️ Harry Potter Fan Page – API-based web app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-sinha-01bbab398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.ranjan.cs@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityaranjan05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaranjan05&show_icons=true&theme=tokyonight&hide_border=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Badges
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile%20Views&color=0e75b6&style=for-the-badge)</br>
+![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=adityaranjan05&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaranjan05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaranjan05&theme=dark&no-frame=false&no-bg=true&margin-w=4)
@@ -40,11 +42,11 @@ Welcome to my GitHub! I’m a Computer Science Engineering student passionate ab
 [![](https://visitcount.itsvg.in/api?id=adityaranjan05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📫 Contact
+## 🌐 Connect With Me
 
-Email: aditya.ranjan.cs@gmail.com      
-LinkedIn: https://www.linkedin.com/in/aditya-ranjan-sinha-01bbab398       
-Github: https://github.com/adityaranjan05    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-ranjan-sinha-01bbab398)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.ranjan.cs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaranjan05)  
 <!--
 **DarkLordAdiii/DarkLordAdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
