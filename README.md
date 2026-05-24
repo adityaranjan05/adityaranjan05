@@ -12,7 +12,7 @@
 ## 🚀 Projects
 
 - 🌱 Sprout Labs – Climate awareness website
-- 🧙‍♂️ Harry Potter Fan Page – API-based web app
+- Movies Search App – API-based web app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ranjan-sinha-01bbab398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.ranjan.cs@gmail.com) 
