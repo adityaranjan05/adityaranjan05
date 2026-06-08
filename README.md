@@ -1,12 +1,15 @@
 # Aditya Ranjan Sinha (@adityaranjan05)
 
-CSE Student | Aspiring Software Engineer  
+CSE Student @ DSCE Bangalore | Frontend Developer | Learning DSA & C++ | Building Real-World Web Applications 
 Passionate about Web Development, DSA & Building Real Projects  
 
 ## About Me
+I am a Computer Science student at DSCE Bangalore passionate about software development and problem-solving.
 
-- Learning Frontend Development, C++, and Data Structures & Algorithms  
-- Building real-world projects to improve problem-solving  
+- Building web applications using HTML, CSS, JavaScript and APIs
+- Learning Data Structures & Algorithms in C++
+- Exploring frontend development and software engineering
+- Interested in creating projects that solve real-world problems  
 - Goal: Crack Google / Microsoft
 
 ## Projects
@@ -23,13 +26,21 @@ Passionate about Web Development, DSA & Building Real Projects
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaranjan05&show_icons=true&theme=tokyonight&hide_border=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight&hide_border=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile%20Views&color=0e75b6&style=for-the-badge)</br>
-![](https://nirzak-streak-stats.vercel.app/?user=adityaranjan05&theme=dark&hide_border=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=adityaranjan05&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityaranjan05&show_icons=true&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityaranjan05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaranjan05&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaranjan05&theme=dark&no-frame=false&no-bg=true&margin-w=4)
