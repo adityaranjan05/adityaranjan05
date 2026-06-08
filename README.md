@@ -35,7 +35,7 @@ I am a Computer Science student at DSCE Bangalore passionate about software deve
 <tr>
 <td width="50%">
 
-### Air Quality Dashboard 
+### <a href="https://air-quality-dashboard-omega.vercel.app/">Air Quality Dashboard</a> 
 
 Real-time air quality monitoring dashboard with AQI tracking, weather insights, pollutant analysis, and interactive charts.
 
@@ -43,7 +43,7 @@ Real-time air quality monitoring dashboard with AQI tracking, weather insights, 
 
 <td width="50%">
 
-### Brain-Lyx
+### <a href="https://educational-website-1st-year.vercel.app/">Brain-Lyx</a>
 
 Climate change and environmental awareness platform featuring educational content, sustainability resources, and interactive visualizations.
 
@@ -53,15 +53,15 @@ Climate change and environmental awareness platform featuring educational conten
 <tr>
 <td width="50%">
 
-### Weather Forecast App
+### <a href="[YOUR_TODO_APP_LINK](https://to-do-app-green-rho-35.vercel.app/)">To-Do App</a>
 
-Responsive weather application providing current conditions, forecasts, humidity, wind speed, and location-based weather data.
+Task management application with task creation, completion tracking, deletion, filtering, and local storage support for persistent productivity.
 
 </td>
 
 <td width="50%">
 
-### GitHub Profile Finder 
+### <a href="https://github-profile-search-app-mu.vercel.app/">GitHub Profile Finder</a> 
 
 Search GitHub users and explore profiles, repositories, followers, following statistics, and account information in real time.
 
