@@ -53,7 +53,7 @@ Climate change and environmental awareness platform featuring educational conten
 <tr>
 <td width="50%">
 
-### <a href="[YOUR_TODO_APP_LINK](https://to-do-app-green-rho-35.vercel.app/)">To-Do App</a>
+### <a href="https://to-do-app-green-rho-35.vercel.app/">To-Do App</a>
 
 Task management application with task creation, completion tracking, deletion, filtering, and local storage support for persistent productivity.
 
