@@ -102,7 +102,7 @@ Search GitHub users and explore profiles, repositories, followers, following sta
   <a href="https://github.com/adityaranjan05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/aditya-ranjan-sinha-01bbab398">
+  <a href="https://linkedin.com/in/adityaranjansinha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:aditya.ranjan.cs@gmail.com">
