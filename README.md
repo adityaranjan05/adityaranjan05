@@ -23,7 +23,7 @@ I am a Computer Science student at DSCE Bangalore passionate about software deve
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,react,tailwind, nodejs" />
 
 </p>
 
