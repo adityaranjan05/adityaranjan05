@@ -35,19 +35,20 @@ I am a Computer Science student at DSCE Bangalore passionate about software deve
 <tr>
 <td width="50%">
 
+### <a href="https://YOUR-PORTFOLIO-LINK.vercel.app/">Personal Portfolio</a>
+
+Designed and developed a responsive portfolio website to showcase projects, skills, and achievements. Built using React and Tailwind CSS with a component-based architecture, modern UI design, and mobile-first responsiveness.
+
+</td>
+
+<td width="50%">
+
 ### <a href="https://air-quality-dashboard-omega.vercel.app/">Air Quality Dashboard</a> 
 
 Real-time air quality monitoring dashboard with AQI tracking, weather insights, pollutant analysis, and interactive charts.
 
 </td>
 
-<td width="50%">
-
-### <a href="https://educational-website-1st-year.vercel.app/">Brain-Lyx</a>
-
-Climate change and environmental awareness platform featuring educational content, sustainability resources, and interactive visualizations.
-
-</td>
 </tr>
 
 <tr>
