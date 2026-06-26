@@ -35,7 +35,7 @@ I am a Computer Science student at DSCE Bangalore passionate about software deve
 <tr>
 <td width="50%">
 
-### <a href="https://YOUR-PORTFOLIO-LINK.vercel.app/">Personal Portfolio</a>
+### <a href="https://adityaranjansinha.vercel.app/">Personal Portfolio</a>
 
 Designed and developed a responsive portfolio website to showcase projects, skills, and achievements. Built using React and Tailwind CSS with a component-based architecture, modern UI design, and mobile-first responsiveness.
 
