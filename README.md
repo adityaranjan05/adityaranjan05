@@ -54,7 +54,7 @@ Real-time air quality monitoring dashboard with AQI tracking, weather insights, 
 <tr>
 <td width="50%">
 
-### <a href="https://to-do-app-green-rho-35.vercel.app/">To-Do App</a>
+### <a href="https://github.com/adityaranjan05/Basic-React-Projects/tree/main/03_To-Do_App/">To-Do App</a>
 
 Task management application with task creation, completion tracking, deletion, filtering, and local storage support for persistent productivity.
 
