@@ -139,6 +139,10 @@ I'm currently focusing on strengthening my problem-solving skills with DSA while
 
 ---
 
+<div>
 <p align="center">
   <i>Keep learning. Keep building. Keep moving forward.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 </p>
+
+</div>
