@@ -106,9 +106,9 @@ I'm currently focusing on strengthening my problem-solving skills with DSA while
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan05&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/adityaranjan05/adityaranjan05/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight" />
+</p> -->
 
 ---
 
