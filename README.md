@@ -6,6 +6,10 @@
   <i>Building, learning, and improving one project at a time.</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile+Views&color=4169e1&style=for-the-badge"/>
+</p>
+
 ---
 
 ## About Me
