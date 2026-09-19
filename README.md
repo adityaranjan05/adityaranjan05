@@ -103,14 +103,11 @@ I'm currently focusing on strengthening my problem-solving skills with DSA while
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaranjan05&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan05&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaranjan05&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github.com/adityaranjan05/adityaranjan05/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
