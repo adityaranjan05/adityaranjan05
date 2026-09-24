@@ -1,81 +1,126 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aditya+Ranjan+Sinha;Computer+Science+Student;Frontend+Developer+%7C+C%2B%2B+%26+DSA+Learner;Building+Real-World+Projects;Aspiring+Software+Engineer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=180&section=header" width="100%" alt="Header Wave" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile+Views&color=4169e1&style=for-the-badge"/>
-</p>
+  <!-- Animated Typewriter Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aditya+Ranjan+Sinha;Computer+Science+Student+at+DSCE%2C+Bangalore;Frontend+Developer+%7C+C%2B%2B+%26+DSA+Learner;Building+Practical%2C+Real-World+Software;Aspiring+Software+Engineer" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <i>Building, learning, and improving one project at a time.</i>
+  </p>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=adityaranjan05&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <!-- Connect Links -->
+  <p align="center">
+    <a href="https://github.com/adityaranjan05">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/adityaranjansinha">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:aditya.ranjan.cs@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-## About Me
+### About Me
 
-I am a Computer Science student at **Dayananda Sagar College of Engineering (DSCE), Bangalore**, passionate about software development, problem-solving, and building practical applications.
+Computer Science student at **Dayananda Sagar College of Engineering (DSCE), Bangalore**, focused on software development, algorithmic problem-solving, and building practical applications.
 
-- Building web applications using HTML, CSS, JavaScript, React, and APIs
-- Learning Data Structures & Algorithms in C++
-- Exploring frontend development and modern web technologies
-- Building projects to strengthen my development skills
-- Interested in software engineering and real-world problem solving
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,nodejs,git,github,vscode,vercel" />
-</p>
+- Developing responsive, performant web applications using HTML, CSS, JavaScript, React, and REST APIs.
+- Strengthening core computer science foundations through Data Structures & Algorithms in C++.
+- Exploring modern frontend architectures, clean code practices, and scalable component design.
+- Translating technical concepts into practical, deployable software solutions.
+- Actively working toward a career in software engineering and real-world system design.
 
 ---
 
-## Featured Projects
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,nodejs,git,github,vscode,vercel&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### <a href="https://adityaranjansinha.vercel.app/">Personal Portfolio</a>
+#### Personal Portfolio
+A responsive developer portfolio built with React and Tailwind CSS to showcase projects, technical competencies, and development experience.
 
-A responsive developer portfolio built with React and Tailwind CSS to showcase my projects, skills, and experience.
+**Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tech:** React • Tailwind CSS • JavaScript
+<br/>
 
-</td>
-
-<td width="50%">
-
-### <a href="https://air-quality-dashboard-omega.vercel.app/">Air Quality Dashboard</a>
-
-A real-time dashboard that provides AQI information, weather data, pollutant analysis, and interactive visualizations.
-
-**Tech:** JavaScript • APIs • Chart.js
+[Live Demo](https://adityaranjansinha.vercel.app/)
 
 </td>
 
+<td width="50%" valign="top">
+
+#### Air Quality Dashboard
+A real-time environmental monitoring dashboard delivering AQI readings, weather telemetry, pollutant distribution, and interactive visual charts.
+
+**Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+<br/>
+
+[Live Demo](https://air-quality-dashboard-omega.vercel.app/)
+
+</td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### <a href="https://github.com/adityaranjan05/Basic-React-Projects/tree/main/03_To-Do_App/">To-Do App</a>
+#### Task Management Application
+A task management application featuring task categorization, status toggles, query filtering, and persistent client-side storage.
 
-A task management application with task creation, completion tracking, filtering, deletion, and persistent local storage.
+**Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Storage](https://img.shields.io/badge/Local_Storage-4E5D6C?style=flat-square)
 
-**Tech:** React • JavaScript • Local Storage
+<br/>
+
+[Source Code](https://github.com/adityaranjan05/Basic-React-Projects/tree/main/03_To-Do_App/)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### <a href="https://github-profile-search-app-mu.vercel.app/">GitHub Profile Finder</a>
+#### GitHub Profile Finder
+A GitHub profile search application that interfaces with the GitHub REST API to surface profile telemetry, repository distributions, and account metrics.
 
-A GitHub profile search application that displays user information, repositories, followers, following statistics, and other account details.
+**Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tech:** JavaScript • GitHub API • CSS
+<br/>
+
+[Live Demo](https://github-profile-search-app-mu.vercel.app/)
 
 </td>
 </tr>
@@ -83,67 +128,48 @@ A GitHub profile search application that displays user information, repositories
 
 ---
 
-## Currently Learning
+### Currently Learning
 
 <p align="center">
 
-`C++` &nbsp; `Data Structures & Algorithms` &nbsp; `React` &nbsp; `Node.js`
+`C++` &nbsp; &bull; &nbsp; `Data Structures & Algorithms` &nbsp; &bull; &nbsp; `React` &nbsp; &bull; &nbsp; `Node.js`
 
 </p>
 
-I'm currently focusing on strengthening my problem-solving skills with DSA while continuing to improve my frontend and backend development knowledge.
+Focused on strengthening core problem-solving intuition with DSA while expanding capabilities across frontend systems and backend services.
 
 ---
 
-## GitHub Stats
+### GitHub Stats & Charts
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaranjan05&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaranjan05&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan05&theme=tokyonight" />
-</p>
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaranjan05&theme=tokyonight" alt="GitHub Profile Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaranjan05&theme=tokyonight" alt="Repos per Language" />
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaranjan05&layout=compact&theme=tokyonight" />
-</p> -->
+  <br/><br/>
 
----
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan05&theme=tokyonight" alt="GitHub Streak Stats" />
 
-## GitHub Trophies
+  <br/><br/>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=adityaranjan05&theme=tokyonight" />
-</p>
+
+</div>
 
 ---
 
-## Connect With Me
+### GitHub Trophies
 
-<p align="center">
-
-<a href="https://github.com/adityaranjan05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/adityaranjansinha">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:aditya.ranjan.cs@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=adityaranjan05&theme=tokyonight" alt="GitHub Trophies" />
+</div>
 
 ---
 
-<div>
-<p align="center">
-  <i>Keep learning. Keep building. Keep moving forward.</i>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
-
+<div align="center">
+  <p><i>Keep learning. Keep building. Keep moving forward.</i></p>
+  <!-- Cohesive Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
